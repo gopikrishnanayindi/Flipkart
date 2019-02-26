@@ -11,7 +11,7 @@ String pwd=sc1.next();
 
 System.out.println("userName:"+userName);
 System.out.println("pwd:"+pwd);
-
+System.out.println("End");
 
 
 }
